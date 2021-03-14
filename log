@@ -58,3 +58,9 @@ Sun Mar 14 20:04:56 UTC 2021:
  tests:  1|6
 total_score: 10/70
 dba361e
+Sun Mar 14 20:05:21 UTC 2021: 
+ exercises.c | 1 +
+ 1 file changed, 1 insertion(+)
+ tests:  2|5
+total_score: 20/70
+edbfae0

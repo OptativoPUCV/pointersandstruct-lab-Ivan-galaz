@@ -45,6 +45,7 @@ void sumaNultimos(int a[], int n, int m, int * suma) {
       printf("%d\n",a[i]);
       tot += a[i];
     }
+    *suma = tot;
     
 }
 
