@@ -59,10 +59,7 @@ typedef struct {
 
 
 Persona* crearPersona(char nombre[], char rut[], int edad) {
-  Persona p;
-  strcpy(p.nombre,"Ignacio");
-  strcpy(p.nombre,"15489xxx-2");
-  p.edad = 38;
+  
    return NULL;
 }
 
@@ -80,6 +77,7 @@ typedef struct {
 } Vector;
 
 Vector * crearVector(int n) {
+
    return NULL;
 }
 
