@@ -59,6 +59,9 @@ typedef struct {
 
 
 Persona* crearPersona(char nombre[], char rut[], int edad) {
+  Persona p;
+  strcpy(p.nombre,"Ignacio");
+  printf("%s\n",p.nombre);
    return NULL;
 }
 
